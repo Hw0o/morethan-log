@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "HACKDOG_WORLD",
     description: "welcome to my-blog!",
-    theme: "light", //light,dark,auto
+    theme: "auto", //light,dark,auto
   },
 
   // CONFIG configration (required)
