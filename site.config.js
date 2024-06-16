@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "HACKDOG",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app 1
     role: "Vulnerability Study",
     bio: "I'm pursuing my dream by delving into hacking and security.",
     email: "annyyddo@gmail.com",
